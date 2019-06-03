@@ -1,2 +1,2 @@
 - [읽기 좋은 코드가 좋은 코드다](/)
-- [01. 이름에 정보 담기](art-of-readable-code-01.md)
+- [01. 이름에 정보 담기](01-art-of-readable-code.md)
